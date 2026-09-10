@@ -7,7 +7,7 @@ Accuracy-first local web app for extracting BOMs from engineering drawings.
 - Multi-page PDFs
 - Text/vector PDF + scanned/image PDF
 - High-resolution OCR
-- Drawing metadata: Area, Line No., Drawing No., Revision, **Sheet No. (e.g. 1 OF 2)**
+- Drawing metadata: Area, Line No., Drawing No., Revision, Sheet No.
 - Section-aware BOM extraction: fabrication / erection / cut pipe
 - Engineering validation and review flags
 - Consolidated Excel export
